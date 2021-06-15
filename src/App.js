@@ -15,6 +15,7 @@ class App extends React.Component {
       number: Math.floor(Math.random() * 1000)
     }));
   }
+ 
 
   render(){
     return (
